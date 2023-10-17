@@ -5,3 +5,15 @@
     --bs-btn-hover-border-color: #146a43;
     --bs-btn-active-bg: #0d5334; 
 }
+
+/* Tamanho do carrosel */
+
+.carousel-item {
+    height: 500px;
+}
+
+.carousel-item img {
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+}
