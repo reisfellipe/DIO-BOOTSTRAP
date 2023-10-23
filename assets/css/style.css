@@ -8,6 +8,10 @@
 
 /* Tamanho do carrosel */
 
+main {
+    margin-top: 5rem;
+}
+
 .carousel-item {
     height: 500px;
 }
